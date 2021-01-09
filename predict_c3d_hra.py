@@ -68,7 +68,7 @@ def _variable_with_weight_decay(name, shape, stddev, wd):
   return var
 
 def run_test():
-  model_name = "./models/c3d_HRA_model-2800"
+  model_name = "./models1/c3d_HRA_model-2800"
   test_list_file = 'test.list'
   num_test_videos = len(list(open(test_list_file,'r')))
   print("Number of test videos={}".format(num_test_videos))
