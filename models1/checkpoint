@@ -1,0 +1,6 @@
+model_checkpoint_path: "c3d_HRA_model-2800"
+all_model_checkpoint_paths: "c3d_HRA_model-2760"
+all_model_checkpoint_paths: "c3d_HRA_model-2770"
+all_model_checkpoint_paths: "c3d_HRA_model-2780"
+all_model_checkpoint_paths: "c3d_HRA_model-2790"
+all_model_checkpoint_paths: "c3d_HRA_model-2800"
