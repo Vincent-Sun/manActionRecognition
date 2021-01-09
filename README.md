@@ -1,6 +1,7 @@
 # HumanActionRecognition
 ## 下载说明：
 ### 建议使用gitclone方式下载，避免数据丢失现象
+***
 ## 运行说明:
 ### 1. 用conda创建虚拟环境（建议使用清华源）:
 #### conda create -n manActionRecognition python=3.5.4
