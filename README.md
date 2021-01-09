@@ -1,7 +1,7 @@
 # HumanActionRecognition
 ## 运行说明:
 ### 1. 用conda创建虚拟环境:
-#### conda create -n create manActionRecognition python=3.5.6
+#### conda create -n manActionRecognition python=3.5.6
 #### conda activate manActionRecognition
 ***
 
