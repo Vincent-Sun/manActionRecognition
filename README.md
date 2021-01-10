@@ -1,4 +1,6 @@
-# HumanActionRecognition
+# HumanActionRecognition of High Risk Action
+### 本项目的主要实现内容是通过训练模型在自己制作的数据集下进行动作分类。
+***
 ## 下载说明：
 ### 建议使用gitclone方式下载，避免数据丢失现象
 ***
